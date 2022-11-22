@@ -1,4 +1,4 @@
-# ordered-SGD
+# [ordered-SGD](https://github.com/dizhima/ordered-SGD)
 an unofficial implementation of ordered SGD.
 
 ## Usage
